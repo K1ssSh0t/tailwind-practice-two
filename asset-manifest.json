@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/tailwind-practice-two/static/css/main.b4622902.css",
+    "main.js": "/tailwind-practice-two/static/js/main.26ab2296.js",
+    "static/media/laptop.jpg": "/tailwind-practice-two/static/media/laptop.45ddf500e572fb2f1d35.jpg",
+    "static/media/single.png": "/tailwind-practice-two/static/media/single.20196aa3e7e7fa48f8f7.png",
+    "static/media/double.png": "/tailwind-practice-two/static/media/double.8be045e6bb88be63d414.png",
+    "static/media/triple.png": "/tailwind-practice-two/static/media/triple.4eb8f19f4b4647321484.png",
+    "index.html": "/tailwind-practice-two/index.html",
+    "main.b4622902.css.map": "/tailwind-practice-two/static/css/main.b4622902.css.map",
+    "main.26ab2296.js.map": "/tailwind-practice-two/static/js/main.26ab2296.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4622902.css",
+    "static/js/main.26ab2296.js"
+  ]
+}
